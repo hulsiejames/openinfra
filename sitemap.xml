@@ -10,6 +10,15 @@
     <loc>/LICENSE.html</loc>
   </url>
   <url>
+    <loc>/articles/QGIS_OSM_Setup.html</loc>
+  </url>
+  <url>
+    <loc>/articles/SOTM_workshop.html</loc>
+  </url>
+  <url>
+    <loc>/articles/data_packs.html</loc>
+  </url>
+  <url>
     <loc>/articles/getosm.html</loc>
   </url>
   <url>
@@ -25,6 +34,9 @@
     <loc>/articles/osm-python.html</loc>
   </url>
   <url>
+    <loc>/articles/package_networks.html</loc>
+  </url>
+  <url>
     <loc>/articles/regions.html</loc>
   </url>
   <url>
@@ -34,6 +46,36 @@
     <loc>/index.html</loc>
   </url>
   <url>
+    <loc>/reference/example_data.html</loc>
+  </url>
+  <url>
     <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/oi_active_cycle.html</loc>
+  </url>
+  <url>
+    <loc>/reference/oi_active_walk.html</loc>
+  </url>
+  <url>
+    <loc>/reference/oi_clean_maxspeed_uk.html</loc>
+  </url>
+  <url>
+    <loc>/reference/oi_inclusive_mobility.html</loc>
+  </url>
+  <url>
+    <loc>/reference/oi_is_lit.html</loc>
+  </url>
+  <url>
+    <loc>/reference/oi_recode_road_class.html</loc>
+  </url>
+  <url>
+    <loc>/reference/oi_road_names.html</loc>
+  </url>
+  <url>
+    <loc>/reference/pipe.html</loc>
+  </url>
+  <url>
+    <loc>/reference/sotm_data.html</loc>
   </url>
 </urlset>
